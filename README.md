@@ -6,7 +6,7 @@ A full-stack book library application built with the MERN stack (MongoDB, Expres
 
 - 📖 Book management system
 - 🔍 Search functionality
-- 📝 Add, edit, and delete books
+- 📝 Add, edit, and delete books 
 - 📱 Responsive design
 - 🔐 User authentication
 - 📊 Book categorization
