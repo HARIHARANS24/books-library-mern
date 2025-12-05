@@ -11,7 +11,7 @@ A full-stack book library application built with the MERN stack (MongoDB, Expres
 - 🔐 User authentication  
 - 📊 Book categorization  
    
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack   
   
 - **Frontend:**
   - React.js
